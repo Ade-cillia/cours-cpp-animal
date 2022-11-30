@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1669729126 source:e:\user\aurelien\code\cours\it-akademy\dfs\julio\poo-part-2\tp\tp1\animal\src\animal.cpp
+	<iostream>
+	"../include/Animal.h"
+	"../include/Diet.h"
+
+1669729256 e:\user\aurelien\code\cours\it-akademy\dfs\julio\poo-part-2\tp\tp1\animal\include\animal.h
+	<string>
+	"Diet.h"
+	"Species.h"
+
+1669729848 source:e:\user\aurelien\code\cours\it-akademy\dfs\julio\poo-part-2\tp\tp1\animal\main.cpp
+	<iostream>
+	"include/Animal.h"
+
+1669647580 e:\user\aurelien\code\cours\it-akademy\dfs\julio\poo-part-2\tp\tp1\animal\src\animal.cpp
+	<iostream>
+	"../../include/Animal.h"
+
+1669733102 e:\user\aurelien\code\cours\it-akademy\dfs\julio\poo-part-2\tp\tp1\animal\include\diet.h
+	<string>
+
+1669717246 source:e:\user\aurelien\code\cours\it-akademy\dfs\julio\poo-part-2\tp\tp1\animal\src\species.cpp
+	<iostream>
+	"../include/Species.h"
+
+1669714484 source:e:\user\aurelien\code\cours\it-akademy\dfs\julio\poo-part-2\tp\tp1\animal\src\diet.cpp
+	<iostream>
+	"../include/Diet.h"
+
+1669733220 e:\user\aurelien\code\cours\it-akademy\dfs\julio\poo-part-2\tp\tp1\animal\include\species.h
+	<string>
+
