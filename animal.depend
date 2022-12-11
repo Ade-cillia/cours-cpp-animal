@@ -31,3 +31,31 @@
 1669733220 e:\user\aurelien\code\cours\it-akademy\dfs\julio\poo-part-2\tp\tp1\animal\include\species.h
 	<string>
 
+1670799276 source:e:\user\aurelien\code\cours\it-akademy\dfs\julio\poo-part-2\tp\tp1\cpp\animal\main.cpp
+	<iostream>
+	"include/Animal.h"
+
+1670799032 e:\user\aurelien\code\cours\it-akademy\dfs\julio\poo-part-2\tp\tp1\cpp\animal\include\animal.h
+	<string>
+	"Diet.h"
+	"Species.h"
+
+1669733102 e:\user\aurelien\code\cours\it-akademy\dfs\julio\poo-part-2\tp\tp1\cpp\animal\include\diet.h
+	<string>
+
+1669733220 e:\user\aurelien\code\cours\it-akademy\dfs\julio\poo-part-2\tp\tp1\cpp\animal\include\species.h
+	<string>
+
+1670799380 source:e:\user\aurelien\code\cours\it-akademy\dfs\julio\poo-part-2\tp\tp1\cpp\animal\src\animal.cpp
+	<iostream>
+	"../include/Animal.h"
+	"../include/Diet.h"
+
+1669797100 source:e:\user\aurelien\code\cours\it-akademy\dfs\julio\poo-part-2\tp\tp1\cpp\animal\src\diet.cpp
+	<iostream>
+	"../include/Diet.h"
+
+1669733206 source:e:\user\aurelien\code\cours\it-akademy\dfs\julio\poo-part-2\tp\tp1\cpp\animal\src\species.cpp
+	<iostream>
+	"../include/Species.h"
+

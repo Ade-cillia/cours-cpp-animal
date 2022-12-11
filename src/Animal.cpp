@@ -83,7 +83,17 @@ Animal::Animal(string p_name,Diet p_diet, string p_species)
     this->setSpecies(p_species);
     this->m_nbLimbs = 4;
 }
-
+//** -------------------- ToString -------------------- **//
+string Animal::toString()
+{
+    string strOut = "name : " + this->m_name + "\n";
+    strOut += "Diet : " + this->m_diet.getDietString() + "\n";
+    strOut += "Species : " + this->getSpecies() + "\n";
+    strOut += "Number of limbs : " + to_string(this->m_nbLimbs) + "\n";
+    strOut += "Life time : " + this->getLifeTime() + "\n";
+    strOut += "Gestation Time : " + this->getGestationTime() + "\n";
+    return strOut;
+}
 //** -------------------- GETTER -------------------- **//
 
 /**

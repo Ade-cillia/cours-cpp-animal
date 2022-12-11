@@ -16,7 +16,8 @@ class Animal: public Species
         Animal(string p_name,Diet p_diet);
         Animal(string p_name,string p_diet, string p_species);
         Animal(string p_name,Diet p_diet, string p_species);
-    
+
+        string toString();
         string getName();
         void setName(string p_name);
 
